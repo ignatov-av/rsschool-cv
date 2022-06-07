@@ -20,13 +20,13 @@ Couldn't pass up such a cool course. I love to learn new things and develop my s
 ## Code Example
 
 ```function showMessage(name) {
-     if (name === "Anton") {
-         return(`Привет ${name}`);
-     } else {
-         return("Привет гость");
+```  if (name === "Anton") {
+```      return(`Привет ${name}`);
+```  } else {
+```      return("Привет гость");
      }
  }
-
+```
  showMessage();
 ```
 
