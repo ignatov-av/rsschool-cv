@@ -26,8 +26,7 @@ function showMessage(name) {
   } else {
       return("Привет гость");
      }
- }
-
+ };
  showMessage();
 ```
 
