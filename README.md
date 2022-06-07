@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ignatov-av.github.io/rsschool-cv/cv
