@@ -4,7 +4,7 @@
 
 * Loсation: Russia, Rostov-on-Don
 * Email: anton.ignatov94@gmail.com
-* GitHub: [ignatov-av] (https://github.com/ignatov-av)
+* GitHub: [ignatov-av](https://github.com/ignatov-av)
 * Discord: ignatov-av
 
 ## About Me
